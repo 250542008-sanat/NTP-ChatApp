@@ -17,7 +17,7 @@
 * **Kolay Yerel Test:** `+ Pencere` butonu ile `127.0.0.1` (localhost) üzerinde anında ikinci sohbet penceresini açabilme.
 * **Zaman Damgası ve Durum Bildirimi:** Mesajları saat ve kullanıcı adıyla listeleme, bağlantı durumunu renkli durum etiketiyle anlık takip etme.
 ## Uygulamanın Temel Özellikleri
-(Daha sonra eklenecek)
+
 ## Ekran Görüntüleri
 <img width="1345" height="748" alt="Ekran Resmi 2026-11-19 22 15 34" src="https://github.com/user-attachments/assets/9f61e84d-22e4-4cc1-8ecd-171c7fd64c9c" />
 <img width="1341" height="751" alt="Ekran Resmi 2026-11-19 22 14 09" src="https://github.com/user-attachments/assets/462ae2cc-232b-4487-8319-4a36e594589e" />
