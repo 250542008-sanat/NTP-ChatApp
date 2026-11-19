@@ -2,7 +2,7 @@
 ## Kullanılan Teknolojiler
 - C# / .NET Windows Forms
 ## Kurulum ve Çalıştırma Adımları
-## Kurulum ve Çalıştırma Adımları
+
 
 1. Bu depoyu yerel bilgisayarınıza klonlayın:
    `git clone https://github.com/250542008-sanat/NTP-ChatApp.git`
