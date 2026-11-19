@@ -19,8 +19,9 @@
 ## Uygulamanın Temel Özellikleri
 (Daha sonra eklenecek)
 ## Ekran Görüntüleri
-<img width="1470" height="956" alt="Ekran Resmi 2026-11-19 22 15 34" src="https://github.com/user-attachments/assets/3a0d8efd-25b0-4b9b-853d-ac1456ac06d7" />
-<img width="1470" height="956" alt="Ekran Resmi 2026-11-19 22 14 09" src="https://github.com/user-attachments/assets/d89aadb9-0c50-4d1f-821a-ef60267ad2aa" />
+<img width="1345" height="748" alt="Ekran Resmi 2026-11-19 22 15 34" src="https://github.com/user-attachments/assets/9f61e84d-22e4-4cc1-8ecd-171c7fd64c9c" />
+<img width="1341" height="751" alt="Ekran Resmi 2026-11-19 22 14 09" src="https://github.com/user-attachments/assets/462ae2cc-232b-4487-8319-4a36e594589e" />
+
 
 
 ## Geliştirici
